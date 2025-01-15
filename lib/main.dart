@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Layout',
+      title: 'Calculadora',
       theme: ThemeData(
         colorScheme: ColorScheme.light(onPrimary: const Color.fromARGB(255, 7, 226, 255)),
         useMaterial3: true,
